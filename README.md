@@ -1,5 +1,5 @@
 # FileReader
-A simple file reader I built to help a friend with an assignment. This file should create/modify three different .txt files, each containing the different Etot, EKtot, and EPtot values, as they appear in the original parent file. 
+A simple file reader I built to help a friend with an assignment. This file should create/modify three different text files, each containing the different Etot, EKtot, and EPtot values, as they appear in the original parent file. 
 
 ## Getting started
 After downloading reader.py, and heat.out, simply run the script using the following command
